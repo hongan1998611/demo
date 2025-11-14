@@ -1,7 +1,11 @@
 check
 check 2
+<<<<<<< HEAD
 
 Tham gia dự án với vai trò được mời
 Bước 1: chủ dự án mời người tham gia thông qua mail
 Bước 2: người tham gia kéo source code của dự án về 
     git clone "url git của dự án"
+=======
+check tham gia dự án vói vai trò được mời
+>>>>>>> ade8a99ec2d15c929d7123d2f421ac1b8fa2628a
